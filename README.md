@@ -16,7 +16,6 @@ This list aims to provide a starting point to information/cyber security profess
 
 <!-- I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request. -->
 
-
 ## Information / Cyber Security Companies
 - [`AegIS Cyber Security`](https://www.aegis-cs.eu) ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource")
 <!-- - [`PHI Consultancy`](https://www.phiconsultancy.eu) ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") -->
@@ -26,7 +25,6 @@ This list aims to provide a starting point to information/cyber security profess
 ## Information Security Bloggers
 <!-- - [`Panagiotis Kalantzis Blog`](https://www.kalantzis.me/blog) ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") -->
 - [`Krebs on Security`](http://krebsonsecurity.com)
-
 
 ## Information Security News
 - [`Help Net Security`](https://www.helpnetsecurity.com)
@@ -38,9 +36,12 @@ This list aims to provide a starting point to information/cyber security profess
 - [`Threatpost`](https://threatpost.com)
 - [`SecurityWeek`](https://www.securityweek.com)
 
-
 ## Cyber Security & Privacy International Organizations
 - [`European Union Agency for Cybersecurity (ENISA)`](https://www.enisa.europa.eu)
+- [`European Data Protection Board (EDPD)`](https://edpb.europa.eu/edpb_en)
+- [`European Data Protection Supervisor (EDPS)`](https://edps.europa.eu/_en)
+- [`SysAdmin, Audit, Network, and Security (SANS) Institute`](https://www.sans.org)
+- [`Cybersecurity and Infrastructure Security Agency (CISA)`](https://www.cisa.gov)
 
 ## Cyber Security & Privacy International Professional Membership Organizations
 - [`International Information System Security Certification Consortium (ISC2)`](https://www.isc2.org)
@@ -66,8 +67,8 @@ This list aims to provide a starting point to information/cyber security profess
 - [`Certified in Risk and Information Systems Control (CRISC)`](https://www.isaca.org/credentialing/crisc)
 ### International Association of Privacy Professionals (IAPP)
 - [`Certified Information Privacy Professional (CIPP)`](https://iapp.org/certify/cipp/)
-- [`Certified Information Privacy Manager  (CIPM)`](https://iapp.org/certify/cipm/)
-- [` Certified Information Privacy Technologist (CIPT)`](https://iapp.org/certify/cipt/)
+- [`Certified Information Privacy Manager (CIPM)`](https://iapp.org/certify/cipm/)
+- [`Certified Information Privacy Technologist (CIPT)`](https://iapp.org/certify/cipt/)
 ### Other Certifications
 - [`AWS Certified Cloud Practitioner`](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
@@ -86,13 +87,9 @@ This list aims to provide a starting point to information/cyber security profess
 - [`NSA Cybersecurity Directorate GitHub`](https://github.com/nsacyber)
 - [`CISA Bad Practices Discussions GitHub`](https://github.com/cisagov/bad-practices/discussions)
 
-
-
 ## How to Share
-
 - [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/pkalantzis/useful-resources&p[images][0]=&p[title]=Useful%20Resources&p[summary]=)
 - [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/pkalantzis/useful-resources&title=Useful%20Resources&summary=&source=)
-
 
 ## License
 
