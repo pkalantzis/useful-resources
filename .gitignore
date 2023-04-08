@@ -31,4 +31,6 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+# Other files to be ignored
+
 ### End of.gitignore for macOS files ###
