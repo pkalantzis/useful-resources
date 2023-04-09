@@ -23,8 +23,22 @@ This list aims to provide a starting point to information/cyber security profess
 - [`Netscan`](https://netscan.gr) ![Liked Resource](assets/icon-like.png "Liked Resource")
 
 ## Information Security Bloggers
-<!-- - [`Panagiotis Kalantzis Blog`](https://www.kalantzis.me/blog) ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") -->
+- [`Panagiotis Kalantzis Blog`](https://www.kalantzis.me/blog) ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
 - [`Krebs on Security`](http://krebsonsecurity.com)
+- [`Schneier on Security`](https://www.schneier.com/)
+- [`TaoSecurity`](https://www.taosecurity.com)
+
+## Information Security Magazines
+- [`IT Security Professionnal`](https://www.itsecuritypro.gr/) ![Liked Resource](assets/icon-like.png "Liked Resource")
+- [`Cyber Defense Magazine`](https://www.cyberdefensemagazine.com)
+
+## Information Security & Privacy Conferences
+- [`Infosecurity Europe`](https://www.infosecurityeurope.com/)
+- [`Blackhat`](https://www.blackhat.com)
+- [`Infocom Security`](https://www.infocomsecurity.gr/)
+- [`Information Security Conference`](https://www.eits.gr/)
+- [`Data Privacy & Protecton Conference`](https://www.dataprivacy.gr/)
+- [`Infocom Security Cyprus`](https://infocomsecurity.com.cy)
 
 ## Information Security News
 - [`Help Net Security`](https://www.helpnetsecurity.com)
