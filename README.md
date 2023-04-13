@@ -97,25 +97,23 @@ This list aims to provide a starting point to information/cyber security profess
 - [`Gramm-Leach-Bliley Act (GLBA)`](https://www.govinfo.gov/content/pkg/PLAW-106publ102/pdf/PLAW-106publ102.pdf)
 - [`The Sarbanes-Oxley Act`](https://www.govinfo.gov/content/pkg/PLAW-107publ204/pdf/PLAW-107publ204.pdf)
 - [`Federal Consumer Online Privacy Rights Act (COPRA)`](https://www.consumerprivacyact.com/wp-content/uploads/2019/12/Consumer-Online-Privacy-Rights-Act-COPRA-Bill-Text.pdf)
-- California Consumer Privacy Act (CCPA)
-- California Privacy Rights Act (CPRA)
-- Children’s Online Privacy Protection Act (COPPA)
-- Connecticut Privacy Law
-- New York Privacy Act
-- Utah Consumer Privacy Act
-- Virginia Consumer Data Protection Act (CDPA)
-- Washington Privacy Act (WPA)
-- US-EU Data Protection Framework
+- [`California Consumer Privacy Act (CCPA) of 2018`](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5)
+- [`California Privacy Rights Act (CPRA) of 2020`](https://vig.cdn.sos.ca.gov/2020/general/pdf/topl-prop24.pdf)
+- [`Children’s Online Privacy Protection Rule (COPPA)`](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-312)
+- [`Connecticut Data Privacy Act (CTDPA)`](https://www.cga.ct.gov/2022/act/Pa/pdf/2022PA-00015-R00SB-00006-PA.PDF)
+- [`Utah Consumer Provacy Act`](https://legiscan.com/UT/text/SB0227/id/2546519)
+- [`Virginia Consumer Data Protection Act (VCDPA)`](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
 - [`Health Insurance Portability and Accountability Act of 1996 (HIPAA)`](https://www.govinfo.gov/content/pkg/PLAW-104publ191/pdf/PLAW-104publ191.pdf)
 ### Europe
-- [`Regulation (EU) 2016/679 (General Data Protection Regulation - GDPR)`](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
-- [`Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive)`](https://eur-lex.europa.eu/eli/dir/2022/2555/oj)
+- [`Regulation (EU) 2016/679 (General Data Protection Regulation - GDPR) of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC`](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
+- [`Directive (EU) 2022/2555 (NIS 2 Directive)of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148`](https://eur-lex.europa.eu/eli/dir/2022/2555/oj)
+- [`Regulation (EU) 2022/2554 (Digital Operational Resilience Act - DORA) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011`](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32022R2554)
 ### Rest of the world
 - [`The Personal Information Protection and Electronic Documents Act (PIPEDA)`](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda)
 - [`Protection of Personal Information Act (POPIA)`](https://popia.co.za/)
-- Privacy Act 1988
-- Personal Information Protection Law (PIPL)
-- Act on the Protection of Personal Information Act No. 57 of 2003 (“APPI”)
+- [`Privacy Act 1988`](https://www.legislation.gov.au/Details/C2014C00076)
+- [`Personal Information Protection Law (PIPL)`](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml) - [`English Translation`](https://digichina.stanford.edu/work/translation-personal-information-protection-law-of-the-peoples-republic-of-china-effective-nov-1-2021/)
+- [`Act on the Protection of Personal Information No. 57 of 2003 (“APPI”)`](https://www.cas.go.jp/jp/seisaku/hourei/data/APPI.pdf)
 
 ## Information Security Bulletins & Advisories
 - [`Amazon Web Services (AwS) Security Bulletins`](https://aws.amazon.com/security/security-bulletins)
@@ -140,7 +138,7 @@ This list aims to provide a starting point to information/cyber security profess
 ### Cloud Security Alliance (CSA)
 - [`Certificate of Cloud Security Knowledge (CCSK)`](https://cloudsecurityalliance.org/education/ccsk/)
 - [`Certificate of Cloud Auditing Knowledge (CCAK)`](https://cloudsecurityalliance.org/education/ccak/)
-## Other Certifications
+### Other Certifications
 - [`AWS Certified Cloud Practitioner`](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 ## Cyber Security & Privacy Training
