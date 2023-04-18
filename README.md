@@ -40,7 +40,7 @@ This list aims to provide a starting point to information/cyber security profess
 - [`Data Privacy & Protecton Conference`](https://www.dataprivacy.gr/)
 - [`Infocom Security Cyprus`](https://infocomsecurity.com.cy)
 
-## Information Security News
+## Information Security & Privacy News
 - [`Help Net Security`](https://www.helpnetsecurity.com)
 - [`The Register`](https://www.theregister.com/security)
 - [`SC Magazine`](http://www.scmagazine.com)
@@ -49,6 +49,13 @@ This list aims to provide a starting point to information/cyber security profess
 - [`CSO Online`](http://www.csoonline.com)
 - [`Threatpost`](https://threatpost.com)
 - [`SecurityWeek`](https://www.securityweek.com)
+- [`CPO Magazine`](https://www.cpomagazine.com)
+
+## Information Security & Privacy Books
+### Wiley
+- [`Start-Up Secure: Baking Cybersecurity into Your Company from Founding to Exit (1st Edition)`](https://www.amazon.com/Start-Up-Secure-Cybersecurity-Company-Founding/dp/1119700736)
+- [`The CISO Evolution: Business Knowledge for Cybersecurity Executives (1st Edition)`](https://www.amazon.com/CISO-Evolution-Knowledge-Cybersecurity-Executives/dp/1119782481)
+- [`The Security Culture Playbook: An Executive Guide To Reducing Risk and Developing Your Human Defense Layer (1st Edition)`](https://www.amazon.com/Security-Culture-Playbook-Executive-Developing/dp/1119875234)
 
 ## Cyber Security & Privacy International Organizations
 - [`International Organization for Standardization (ISO)`](https://www.iso.org)
@@ -92,6 +99,10 @@ This list aims to provide a starting point to information/cyber security profess
 - [`Federal Risk and Authorization Management Program (FedRAMP)`](https://www.fedramp.gov/)
 
 ## Information Security & Privacy Laws and Regulations
+### Europe
+- [`Regulation (EU) 2016/679 (General Data Protection Regulation - GDPR) of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC`](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
+- [`Directive (EU) 2022/2555 (NIS 2 Directive)of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148`](https://eur-lex.europa.eu/eli/dir/2022/2555/oj)
+- [`Regulation (EU) 2022/2554 (Digital Operational Resilience Act - DORA) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011`](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32022R2554)
 ### United States
 - [`Federal Information Security Modernization Act (FISMA)`](https://www.govinfo.gov/content/pkg/PLAW-107publ347/pdf/PLAW-107publ347.pdf)
 - [`Gramm-Leach-Bliley Act (GLBA)`](https://www.govinfo.gov/content/pkg/PLAW-106publ102/pdf/PLAW-106publ102.pdf)
@@ -104,10 +115,6 @@ This list aims to provide a starting point to information/cyber security profess
 - [`Utah Consumer Provacy Act`](https://legiscan.com/UT/text/SB0227/id/2546519)
 - [`Virginia Consumer Data Protection Act (VCDPA)`](https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/)
 - [`Health Insurance Portability and Accountability Act of 1996 (HIPAA)`](https://www.govinfo.gov/content/pkg/PLAW-104publ191/pdf/PLAW-104publ191.pdf)
-### Europe
-- [`Regulation (EU) 2016/679 (General Data Protection Regulation - GDPR) of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC`](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
-- [`Directive (EU) 2022/2555 (NIS 2 Directive)of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148`](https://eur-lex.europa.eu/eli/dir/2022/2555/oj)
-- [`Regulation (EU) 2022/2554 (Digital Operational Resilience Act - DORA) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011`](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32022R2554)
 ### Rest of the world
 - [`The Personal Information Protection and Electronic Documents Act (PIPEDA)`](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda)
 - [`Protection of Personal Information Act (POPIA)`](https://popia.co.za/)
@@ -132,14 +139,14 @@ This list aims to provide a starting point to information/cyber security profess
 - [`Certified Data Privacy Solutions Engineer (CDPSE)`](https://www.isaca.org/credentialing/cdpse)
 - [`Certified in Risk and Information Systems Control (CRISC)`](https://www.isaca.org/credentialing/crisc)
 ### International Association of Privacy Professionals (IAPP)
-- [`Certified Information Privacy Professional (CIPP)`](https://iapp.org/certify/cipp/)
-- [`Certified Information Privacy Manager (CIPM)`](https://iapp.org/certify/cipm/)
-- [`Certified Information Privacy Technologist (CIPT)`](https://iapp.org/certify/cipt/)
+- [`Certified Information Privacy Professional (CIPP)`](https://iapp.org/certify/cipp)
+- [`Certified Information Privacy Manager (CIPM)`](https://iapp.org/certify/cipm)
+- [`Certified Information Privacy Technologist (CIPT)`](https://iapp.org/certify/cipt)
 ### Cloud Security Alliance (CSA)
-- [`Certificate of Cloud Security Knowledge (CCSK)`](https://cloudsecurityalliance.org/education/ccsk/)
-- [`Certificate of Cloud Auditing Knowledge (CCAK)`](https://cloudsecurityalliance.org/education/ccak/)
+- [`Certificate of Cloud Security Knowledge (CCSK)`](https://cloudsecurityalliance.org/education/ccsk)
+- [`Certificate of Cloud Auditing Knowledge (CCAK)`](https://cloudsecurityalliance.org/education/ccak)
 ### Other Certifications
-- [`AWS Certified Cloud Practitioner`](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [`AWS Certified Cloud Practitioner`](https://aws.amazon.com/certification/certified-cloud-practitioner)
 
 ## Cyber Security & Privacy Training
 ### Cybrary
@@ -151,6 +158,13 @@ This list aims to provide a starting point to information/cyber security profess
 - [`Certificate of Cloud Security Knowledge (CCSK)`](https://app.cybrary.it/browse/course/ccsk) ![Free Resource](assets/icon-free.png "Free Resource")
 - [`Privacy Program Management`](https://app.cybrary.it/browse/course/privacy-program-management) ![Free Resource](assets/icon-free.png "Free Resource")
 - [`AWS Certified Cloud Practitioner`](https://app.cybrary.it/browse/course/aws-cloud-practitioner-2021-10-12) ![Free Resource](assets/icon-free.png "Free Resource")
+
+## Cyber Security & Privacy Programs and Tools
+- [`Bitwarden Password Manager`](https://bitwarden.com) ![Free Resource](assets/icon-free.png "Free Resource") ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
+- [`Eramba Governance Risk & Compliance (GRC)`](https://www.eramba.org) ![Free Resource](assets/icon-free.png "Free Resource") ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
+- [`JumpCloud Open Directory`](https://jumpcloud.com) ![Liked Resource](assets/icon-like.png "Liked Resource") 
+- [`Privacy Impact Assessment (PIA) | CNIL`](https://www.cnil.fr/en/privacy-impact-assessment-pia) ![Liked Resource](assets/icon-like.png "Liked Resource") 
+- [`Simplerisk Governance Risk & Compliance (GRC)`](https://www.simplerisk.com) ![Liked Resource](assets/icon-like.png "Liked Resource") 
 
 ## Other Resources
 - [`NSA Cybersecurity Directorate GitHub`](https://github.com/nsacyber)
