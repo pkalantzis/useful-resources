@@ -14,12 +14,12 @@
 
 This list aims to provide a starting point to information/cyber security professionals, and anyone with interest in these fields  to dive into and gain the required insights for personal development.
 
-<!-- I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request. -->
+I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
 
 ## Information / Cyber Security Companies
 - [`AegIS Cyber Security`](https://www.aegis-cs.eu) ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource")
-<!-- - [`PHI Consultancy`](https://www.phiconsultancy.eu) ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") -->
-<!-- - [`Information Security on Demand`](https://www.informationsecurityondemand.eu) ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") -->
+- [`PHI Consultancy`](https://www.phiconsultancy.eu) ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
+- [`Information Security on Demand`](https://www.informationsecurityondemand.eu) ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
 - [`Netscan`](https://netscan.gr) ![Liked Resource](assets/icon-like.png "Liked Resource")
 
 ## Information Security Bloggers
@@ -53,6 +53,8 @@ This list aims to provide a starting point to information/cyber security profess
 
 ## Information Security & Privacy Books
 ### Wiley
+- [`The Cyber Risk Handbook: Creating and Measuring Effective Cybersecurity Capabilities (1st Edition)`](https://www.amazon.com/Cyber-Risk-Handbook-Cybersecurity-Capabilities/dp/1119308801)
+- [`Cyber Security Policy Guidebook (1st Edition)`](https://www.amazon.com/Cyber-Security-Policy-Guidebook-Jennifer/dp/1118027809)
 - [`Start-Up Secure: Baking Cybersecurity into Your Company from Founding to Exit (1st Edition)`](https://www.amazon.com/Start-Up-Secure-Cybersecurity-Company-Founding/dp/1119700736)
 - [`The CISO Evolution: Business Knowledge for Cybersecurity Executives (1st Edition)`](https://www.amazon.com/CISO-Evolution-Knowledge-Cybersecurity-Executives/dp/1119782481)
 - [`The Security Culture Playbook: An Executive Guide To Reducing Risk and Developing Your Human Defense Layer (1st Edition)`](https://www.amazon.com/Security-Culture-Playbook-Executive-Developing/dp/1119875234)
@@ -124,9 +126,14 @@ This list aims to provide a starting point to information/cyber security profess
 
 ## Information Security Bulletins & Advisories
 - [`Amazon Web Services (AwS) Security Bulletins`](https://aws.amazon.com/security/security-bulletins)
-- [`Google Cloud Platform (GPC) Security Bulletins`](https://cloud.google.com/support/bulletins)
-<!-- - [`Microsof Azure Security Bulletins`](​) -->
 - [`CISCO Security Advisories`](https://sec.cloudapps.cisco.com/security/center/publicationListing.x)
+- [`Cybersecurity and Infrastructure Security Agency (CISA) Cybersecurity Alerts & Advisories`](https://www.cisa.gov/news-events/cybersecurity-advisories)
+- [`Debian Security Advisories`](https://www.debian.org/security/)
+- [`Google Cloud Platform (GPC) Security Bulletins`](https://cloud.google.com/support/bulletins)
+- [`Microsof Security Advisories`](https://www.microsoft.com/en-us/msrc/technical-security-notifications​)
+- [`ORACLE Critical Patch Update Advisories, Security Alerts and Bulletins`](https://www.oracle.com/security-alerts)
+- [`Redhat Security Bulletins`](https://access.redhat.com/security/vulnerabilities)
+- [`VMware Security Advisories`](https://www.vmware.com/security/advisories.tml)
 
 ## Cyber Security & Privacy Certifications
 ### International Information System Security Certification Consortium (ISC2)
