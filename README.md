@@ -1,13 +1,3 @@
-# Standing with Ukraine
-
-<div align="center">
-	<img width="500" height="350" src="assets/logo-ua.png">
-	<img src="assets/banner-ua.png">
-<br />
-<br />
-<br />
-</div>
-
 # Useful Resources
 
 > A curated list of Information / Cyber Security, Privacy and other resources.
@@ -105,6 +95,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 - [`Regulation (EU) 2016/679 (General Data Protection Regulation - GDPR) of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC`](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
 - [`Directive (EU) 2022/2555 (NIS 2 Directive)of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148`](https://eur-lex.europa.eu/eli/dir/2022/2555/oj)
 - [`Regulation (EU) 2022/2554 (Digital Operational Resilience Act - DORA) of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011`](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32022R2554)
+
 ### United States
 - [`Federal Information Security Modernization Act (FISMA)`](https://www.govinfo.gov/content/pkg/PLAW-107publ347/pdf/PLAW-107publ347.pdf)
 - [`Gramm-Leach-Bliley Act (GLBA)`](https://www.govinfo.gov/content/pkg/PLAW-106publ102/pdf/PLAW-106publ102.pdf)
@@ -166,12 +157,17 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 - [`Privacy Program Management`](https://app.cybrary.it/browse/course/privacy-program-management) ![Free Resource](assets/icon-free.png "Free Resource")
 - [`AWS Certified Cloud Practitioner`](https://app.cybrary.it/browse/course/aws-cloud-practitioner-2021-10-12) ![Free Resource](assets/icon-free.png "Free Resource")
 
-## Cyber Security & Privacy Programs and Tools
+## Open Source Cyber Security & Privacy Services, Programs and Tools
 - [`Bitwarden Password Manager`](https://bitwarden.com) ![Free Resource](assets/icon-free.png "Free Resource") ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
+- [`CISO Assistant Governance Risk & Compliance (GRC)`](https://intuitem.com/)![Free Resource](assets/icon-free.png "Free Resource") ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
+- [`Elastic Stack (Elasticsearch, Kibana, Beats, and Logstash) `](https://www.elastic.co/elastic-stack) ![Free Resource](assets/icon-free.png "Free Resource") ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
 - [`Eramba Governance Risk & Compliance (GRC)`](https://www.eramba.org) ![Free Resource](assets/icon-free.png "Free Resource") ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
+- [`Graylog`](https://graylog.org/) ![Free Resource](assets/icon-free.png "Free Resource") ![Top Resource](assets/icon-top.png "Top Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
 - [`JumpCloud Open Directory`](https://jumpcloud.com) ![Liked Resource](assets/icon-like.png "Liked Resource") 
-- [`Privacy Impact Assessment (PIA) | CNIL`](https://www.cnil.fr/en/privacy-impact-assessment-pia) ![Liked Resource](assets/icon-like.png "Liked Resource") 
-- [`Simplerisk Governance Risk & Compliance (GRC)`](https://www.simplerisk.com) ![Liked Resource](assets/icon-like.png "Liked Resource") 
+- [`Keycloak`](https://www.keycloak.org/) ![Free Resource](assets/icon-free.png "Free Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
+- [`Observium`](https://www.observium.org/) ![Free Resource](assets/icon-free.png "Free Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
+- [`Privacy Impact Assessment (PIA) | CNIL`](https://www.cnil.fr/en/privacy-impact-assessment-pia) ![Free Resource](assets/icon-free.png "Free Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
+- [`Simplerisk Governance Risk & Compliance (GRC)`](https://www.simplerisk.com) ![Free Resource](assets/icon-free.png "Free Resource") ![Liked Resource](assets/icon-like.png "Liked Resource") 
 
 ## Other Resources
 - [`NSA Cybersecurity Directorate GitHub`](https://github.com/nsacyber)
